@@ -1,4 +1,4 @@
-[简体中文](https://github.com/QingdaoU/OnlineJudgeDeploy/blob/2.0/README.md) | English
+English | [简体中文](https://github.com/wookingwoo/OnlineJudgeDeploy/blob/wookingwoo_main/README.chinese.md)
 
 ## Environmental preparation (Linux)
 
